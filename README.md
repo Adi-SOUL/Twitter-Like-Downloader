@@ -22,7 +22,7 @@ python main.py
 
 ```
 
-2.或者从[此处](https://github.com/Adi-SOUL/Twitter-Like-Downloader/releases/tag/v0.1)下载/Or get the releases [here](https://github.com/Adi-SOUL/Twitter-Like-Downloader/releases/tag/v0.1):
+2.或者从[此处](https://github.com/Adi-SOUL/Twitter-Like-Downloader/releases/tag/v0.1)下载/Or get the releases [here](https://github.com/Adi-SOUL/Twitter-Like-Downloader/releases/tag/v0.1)
 
 ### 参数设置/Settings
 
