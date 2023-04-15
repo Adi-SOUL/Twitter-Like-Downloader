@@ -26,9 +26,9 @@ python main.py
 
 ### 参数设置/Settings
 
-1.```Twitter API Token```处输入你的**Bearer Token**，具体情况可见：https://developer.twitter.com/en
+1.```Twitter API Token```处输入你的**Bearer Token**，具体情况可见：https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
 
-Enter your **Bearer Token** at ```Twitter API Token```, see the details: https://developer.twitter.com/en
+Enter your **Bearer Token** at ```Twitter API Token```, see the details: https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
 
 2.```Twitter ID```处输入与Like关联的账号id，例如[Elon Musk](https://twitter.com/elonmusk)的id是elonmusk，[小島秀夫](https://twitter.com/Kojima_Hideo)的id是Kojima_Hideo；
 
